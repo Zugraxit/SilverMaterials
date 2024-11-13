@@ -1,0 +1,34 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+packages/
+
+# Logs
+*.log
+!apache/*.log
+
+# Temporary files
+dist/**/tmp*
+dist/tmp*
+
+# Bin catalog
+/bin/
